@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/thomas/atreus/qmk_firmware/tmk_core/common'
+let g:netrw_dirhist_5='/home/thomas/atreus/qmk_firmware/tmk_core'
+let g:netrw_dirhist_4='/home/thomas/atreus/qmk_firmware'
+let g:netrw_dirhist_3='/home/thomas/atreus/qmk_firmware/keyboards/atreus'
+let g:netrw_dirhist_2='/home/thomas/atreus/qmk_firmware/keyboards'
+let g:netrw_dirhist_1='/home/thomas/atreus/qmk_firmware'
