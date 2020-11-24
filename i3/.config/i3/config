@@ -202,3 +202,4 @@ assign [class="URxvt" instance="ranger"] workspace $ws3
 
 exec setxkbmap at,us
 
+exec xautolock -time 10 -locker '~/.i3/i3lock-fancy-multimonitor/lock -b=0x8' &
